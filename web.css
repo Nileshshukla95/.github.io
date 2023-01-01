@@ -1,0 +1,105 @@
+#name,#name2{
+position: relative;
+top: 100px;
+font-family: 'Roboto Slab', serif;
+color: white;
+
+}
+#blur{
+
+height: 700px;
+background-color: rgba(68, 75, 76, 0.455);
+
+
+}
+#img{
+
+height: 270px;
+width: 270px;
+position: relative;
+top: 80px;
+
+border-radius: 200px;
+
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+
+background:-webkit-linear-gradient(#74d3e6,rgba(135, 135, 207, 0.746));
+
+
+}
+html{
+
+scroll-behavior: smooth;
+
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    background-color: rgba(var(--bs-tertiary-bg-rgb),var(--bs-bg-opacity))!important;
+}
+.skill{
+
+width: 60%;
+position: relative;
+left: 100px;
+
+
+}
+#pro{
+
+   
+    display: flex;
+    height:20px;
+    overflow: hidden;
+    font-size:20pt;
+    background-color:white;
+    border-radius:0px;
+    --bs-progress-bar-bg: #366580db;
+
+
+
+}
+#ani{
+
+animation-delay: 7min;
+
+
+}
+#edu{
+
+height: 500px;
+
+
+}
+#fo{
+
+font-size: 70pt;
+color: rgb(47, 90, 90);
+
+}
+#con{
+
+font-size:20pt;
+color: #74d3e6;
+
+
+}
+font{
+
+font-size: 15pt;
+
+
+}
+#con2{
+font-size: 25pt;
+color: rgba(181, 93, 93, 0.89);
+
+}
+.footer{
+
+height: 200px;
+background-color: rgba(29, 30, 32, 0.728);
+
+
+}
